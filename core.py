@@ -4,7 +4,7 @@
 A simple python script!
 Writen and tested on Python 2.7.10
 NOTE: Not compatible with python 3.X.X!
-Program def Function() path: main() --> () / ()
+
 
 '''
 
